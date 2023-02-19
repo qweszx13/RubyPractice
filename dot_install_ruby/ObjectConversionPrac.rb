@@ -12,4 +12,3 @@ score = {taguchi: 200, fkoji: 400}
 
 p scores.to_a # to array
 p scores.to_h # to hash
-
